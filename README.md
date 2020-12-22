@@ -1,5 +1,10 @@
 ### Hi, I'm Bima 👋
 
+💬 Public account, Not work project account
+
+🤔 I’m looking for help with Web programming
+
+Indonesia
 <!--
 **Bimamaarschal/Bimamaarschal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
