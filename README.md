@@ -6,8 +6,7 @@
 
 👯 My best friend Laravel
 
-
-<This is a formal room>
+📫 This is a formal room
 
 
 Indonesia
