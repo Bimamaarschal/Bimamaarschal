@@ -1,15 +1,4 @@
-### Hi, I'm Bima Maarschal 👋
-
-💬 Public account
-
-📫 This is a formal room
-
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bimamaarschal&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Bimamaarschal}&theme=vue"/>
-
-
 
 Ready
 
@@ -30,4 +19,3 @@ Ready
 Contact
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/Bimamaarschal)  [<img alt="Github" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/Bimamaarschal)  [<img alt="Github" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/Bimamaarschal)
-
