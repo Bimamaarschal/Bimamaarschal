@@ -1,5 +1,6 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bimamaarschal&theme=github-dark-blue&border_radius=10&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=320)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimamaarschal&langs_count=10&layout=compact&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/bimamaarschal/bimamaarschal)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bimamaarschal&theme=transparent&border_radius=7&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=400)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimamaarschal&langs_count=10&layout=compact&theme=transparent&border_radius=7&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&card_width=50)](https://github.com/bimamaarschal/bimamaarschal)
 
 
 Contact
