@@ -3,7 +3,6 @@
 
 Github Grades
 
-[![Bimamaarschal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bimamaarschal&show_icons=true&hide_title=true&show_owner=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/bimamaarschal/bimamaarschal)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimamaarschal&langs_count=10&layout=compact&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/bimamaarschal/bimamaarschal)
 
 Contact
