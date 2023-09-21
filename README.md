@@ -1,1 +1,10 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bimamaarschal&theme=transparent&border_radius=7&date_format=%5BY.%5Dn.j&card_width=400&card_height=200)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimamaarschal&langs_count=8&layout=compact&theme=transparent&border_radius=7&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&card_width=50&height=100)](https://github.com/bimamaarschal/bimamaarschal)
+<details>
+<summary>:eyes: See rank </summary><br>
+<a href="https://github.com/Bimamaarschal">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bimamaarschal&rank_icon=github&theme=transparent" />
+</a>
+<a href="https://github.com/Bimamaarschal">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bimamaarschal&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
+
+</details>
